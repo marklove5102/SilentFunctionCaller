@@ -17,3 +17,5 @@ How this driver identifies Driver Functions & Recognizes them is through their F
 ![Demo](https://raw.githubusercontent.com/i32-Sudo/SilentFunctionCaller/refs/heads/main/RVK.png)
 ( Its an ass project made to look good, just doing this for a school project )
 Thanks Europapa for encryption <3
+
+Discord Username; bloodieys
